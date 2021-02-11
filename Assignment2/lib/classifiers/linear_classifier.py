@@ -5,7 +5,6 @@ from builtins import object
 import numpy as np
 from lib.classifiers.linear_svm import *
 from lib.classifiers.softmax import *
-from past.builtins import xrange
 
 
 class LinearClassifier(object):
@@ -16,7 +15,7 @@ class LinearClassifier(object):
     def train(self, X, y, learning_rate=1e-3, reg=1e-5, num_iters=100,
               batch_size=200, verbose=False):
         """
-        Train this linear classifier using stochastic gradient descent.
+        Обучите классификатор с помощью метода градиентного спуска
 
         Inputs:
         - X: A numpy array of shape (N, D) containing training data; there are N

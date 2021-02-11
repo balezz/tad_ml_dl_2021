@@ -5,7 +5,7 @@ from past.builtins import xrange
 
 def svm_loss_naive(W, X, y, reg):
     """
-    Structured SVM loss function, naive implementation (with loops).
+    SVM loss, наивная реализация с циклами
 
     Inputs have dimension D, there are C classes, and we operate on minibatches
     of N examples.
