@@ -65,8 +65,8 @@ class TwoLayerNet:
         dL_dO2 = self.layers[2].backward(dL_dZ)
         dL_dO1 = self.layers[1].backward(dL_dO2)
         dL_dX = self.layers[0].backward(dL_dO1)
-        W1.grad += dW1 * self.reg
-        W2.grad += dW2 * self.reg
+        W1.grad += dW1
+        W2.grad += dW2
 
         loss = ce_loss + reg_loss_1 + reg_loss_2
         # end
