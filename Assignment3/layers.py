@@ -79,7 +79,6 @@ def softmax_with_cross_entropy(preds, target_index):
     return loss, d_preds
 
 
-
 class Param:
     """
     Trainable parameter of the model
@@ -99,12 +98,8 @@ class ReLULayer:
         # TODO: Implement forward pass
         # Hint: you'll need to save some information about X
         # to use it later in the backward pass
-        # raise Exception("Not implemented!")
-        self.mask = (X < 0)
-        out = X.copy()
-        out[self.mask] = 0
-        return out
-        # end
+        raise Exception("Not implemented!")
+
         return X
 
     def backward(self, d_out):
@@ -121,11 +116,8 @@ class ReLULayer:
         """
         # TODO: Implement backward pass
         # Your final implementation shouldn't have any loops
-        # raise Exception("Not implemented!")
-        d_result = d_out.copy()
-        d_result[self.mask] = 0
-        return d_result
-        # end
+        raise Exception("Not implemented!")
+
         return d_out
 
     def params(self):
@@ -142,12 +134,8 @@ class FullyConnectedLayer:
     def forward(self, X):
         # TODO: Implement forward pass
         # Your final implementation shouldn't have any loops
-        # raise Exception("Not implemented!")
+        raise Exception("Not implemented!")
 
-        result = X @ self.W.value
-        self.X = X
-        return result + self.B.value
-        # end
 
     def backward(self, d_out):
         """
@@ -171,12 +159,8 @@ class FullyConnectedLayer:
         # It should be pretty similar to linear classifier from
         # the previous assignment
 
-        # raise Exception("Not implemented!")
-        dOut_dX = d_out @ np.transpose(self.W.value)
-        self.W.grad = self.X.T @ d_out
-        self.B.grad = np.sum(d_out, axis=0).reshape(1, -1)
-        return dOut_dX
-        # end
+        raise Exception("Not implemented!")
+
         return d_input
 
     def params(self):

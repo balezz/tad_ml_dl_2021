@@ -11,14 +11,15 @@
  За выполнение каждой задачи начисляется по 3%.  
 Deadline - 23:59 11.02.2021  
 After deadline your work will have just half points.  
+See Assignments1 results in Assignments1/ПМ18.csv file.  
+
 
 ### Assignment 2 - Linear Classifiers: SVM and Softmax  
 2.1 Implement Support Vector Machine Classifier and get 0.39 validation accuracy with CIFAR10 dataset - 60%  
 2.2 Implement Softmax Classifier and get 0.35 validation accuracy with CIFAR10 dataset - 40%
 
-### Assignment 3 - Neural Nets: Linear, Activation, Convolution layers  
+### Assignment 3 - Neural Nets, Intro to Pytorch  
 
-### Assignment 4 - PyTorch: Image classification, transfer learning  
       
 
 Have any question? Ask it in issues! 

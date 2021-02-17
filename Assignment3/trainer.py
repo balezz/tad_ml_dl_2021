@@ -101,11 +101,7 @@ class Trainer:
                 # use model to generate loss and gradients for all
                 # the params
 
-                # raise Exception("Not implemented!")
-                X_batch = self.dataset.train_X[batch_indices]
-                target_idxs = self.dataset.train_y[batch_indices]
-                loss = self.model.compute_loss_and_gradients(X_batch, target_idxs)
-                # end
+                raise Exception("Not implemented!")
 
                 for param_name, param in self.model.params().items():
                     optimizer = self.optimizers[param_name]
@@ -115,9 +111,7 @@ class Trainer:
 
             if np.not_equal(self.learning_rate_decay, 1.0):
                 # TODO: Implement learning rate decay
-                # raise Exception("Not implemented!")
-                self.learning_rate *= self.learning_rate_decay
-                # end
+                raise Exception("Not implemented!")
 
             ave_loss = np.mean(batch_losses)
 
