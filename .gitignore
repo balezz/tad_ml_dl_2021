@@ -1,0 +1,8 @@
+.git
+.idea
+/data/cifar-10-python.tar.gz
+/Assignment3/.ipynb_checkpoints/
+/Assignment2/.ipynb_checkpoints/
+/data/test_32x32.mat
+/data/train_32x32.mat
+/data/cifar-10-batches-py/
