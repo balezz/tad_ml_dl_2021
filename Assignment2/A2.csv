@@ -1,10 +1,29 @@
 ,svm,,softmax,,,,,total
+,,,,,,,,
+"Шайдуллина К",60,,40,,,,,100
+"Мусина К",60,,40,,,,,100
+"Кузнецова Е",55,"37.2 val",35,"Gradient difference: 365.507819",,,,90
+"Тетеревников Д",55,"honour answer",35,"difference: 1539.842942",,,,90
+"Карпенко Н",60,,40,,,,,100
+"Гогохия Г",10,"not implemented",,,,,,10
+"Федоров Д",50,"37.1 val",30,"no ansers, 34.8 val",,,,80
+"Петранин К",50,"no answer2, 36.4 val",40,,,,,90
+"Аблязова А",50,"no answers",20,"not implemented",,,,70
+"Полуэктов К",50,"no answers, 38.3% val",20,"not implemented",,,,70
+"Федякин И",30,"no notebooks",20,,,,,50
+"Сибирцева М",50,"no answers",30,,,,,80
+"Басюк А",30,"no notebooks",20,,,,,50
+"Маслова А",50,"no answers, 36.4% val",30,"no ansers",,,,80
+"Кортецкая Н",20,"not integrated with notebook",,,,,,20
+"Шевелькова М",30,"can`t assert results, modified notebooks",20,,,,,50
+"Олтян Н",60,"No answers, relative error: 1.0, but good experience with many lr-reg points",40,,,,,100
+"Бадараева А",60,,40,,,,,100
 "Проказнов Н",50,"(36% val)",30,"Gradient difference: 378.142201, no ans1",,,,80
-"Еникеев Э",10,"not implement vectorized ",10,"not implemented",,,,20
-"Якупов Р",60,,40,,,,,100
-,,,,,,,,0
+"Еникеев Э",10,"not implement vectorized",10,"not implemented",,,,20
+,,,,,,,,
+"Якупов Р",60,,40,,,,,200
 "Ибрагимов Р",50,"loss difference: 8.834394",40,,,,,180
 "Яровой А",60,,40,,,,,200
 "Максимова А",50,"difference: 987.886089",40,,,,,180
 "Поздняков А",55,"38.7% val",35,"34.2% val",,,,180
-"Буховцева К","no access",,,,,,,#VALUE!
+"Буховцева К",60,,0,,,,,120
