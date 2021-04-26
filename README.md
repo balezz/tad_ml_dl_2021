@@ -1,6 +1,6 @@
 # Technology of Data Analysis, Machine Learning and Deep Learning course   
 
-Баллы за курс распределяются следующим образом:
+Баллы за курс распределяются следующим образом:  
 Assignments 1-4 - 20 баллов  
 Assignments 5-8 - 20 баллов  
 Теоретические вопросы на экзамене - 30 баллов (2 вопроса по 15 баллов)  
