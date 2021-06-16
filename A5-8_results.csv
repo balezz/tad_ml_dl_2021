@@ -1,5 +1,5 @@
 ,,А5,А6,А7,А8,Total,Practice
-, Астахов И, 50,60,80,60,, 
+, Астахов И, 50,60,80,60,,IMG MNIST +
 1,Аблязова А,90,100,100,60,,IMG CycleGAN +
 2,Басюк А,90,100,80,80,,NLP Trump tweet generation +
 3,Буховцева К,80,100,100,100,,NLP Disaster Tweets +
@@ -8,7 +8,7 @@
 6,Зубеня А,40,40,50,,,Super Resolution CNN +
 7,Карпенко Н,50,60,80,60,,Reinforcement Learning -
 8,Коротецкая А,80,100,80,70,,NLP Trump tweet generation +
-9,Лучейко М,50,60,80,60,,
+9,Лучейко М,50,60,80,60,,IMG MNIST +
 10,Маяницкий Д,,,,,,
 11,Олтян Н,80,100,100,100,,Super Resolution CNN +
 12,Полуэктов К,80,80,80,90,,NLP Jigsaw toxic comments classification -
