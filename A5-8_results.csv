@@ -20,8 +20,8 @@
 18,Шайдуллина К,90,100,100,100,,IMG CycleGAN +
 19,Шевелькова М,80,90,100,100,,NLP IMDB Review classification +
 20,Эккли М.,50,60,,,,
-21,Эргашев Р,50,70,80,100,,
-22,Намлеев В, 30,60,80,70,,Reinforcement Learning -
+21,Эргашев Р,50,70,80,100,,RL snake pygame +
+22,Намлеев В, 30,60,80,70,,RL snake pygame +
 ,,,,,,,
 1,Бадараева А,100,100,100,100,,NLP Disaster Tweets +
 2,Белозерцева Н,80,100,100,90,,MTS books recomendation +
