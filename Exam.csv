@@ -1,0 +1,50 @@
+,,1,2,3,Total,Practice
+1,Астахов И,12,10,20,42,IMG MNIST +
+2,Аблязова А,15,13,28,56,IMG CycleGAN +
+3,Басюк А,13,13,27,53,NLP Trump tweet generation +
+4,Буховцева К,13,15,28,56,NLP Disaster Tweets +
+5,Гасанов И,10,10,20,40,Malware classification -
+6,Дзгоев Д,13,13,25,51,IMG Unet plate detector +
+7,Зубеня А,13,12,30,55,Super Resolution CNN +
+8,Карпенко Н,13,13,25,51,RL self driving car +
+9,Коротецкая А,13,12,27,52,NLP Trump tweet generation +
+10,Лучейко М,12,10,20,42,IMG MNIST +
+11,Маяницкий Д,12,10,0,22, IMG Gesture classification -
+12,Олтян Н,12,13,30,55,Super Resolution CNN +
+13,Полуэктов К,12,10,27,49,NLP Jigsaw toxic comments classification +
+14,Сибирцева М,13,15,30,58,IMG Cartoon emotion classification +
+15,Съедина Т,12,10,25,47,Happiness Score +
+16,Тетеревников Д,12,10,25,47,RL self driving car +
+17,Федоров Д,12,12,28,52,IMG Mask Detection +
+18,Чугунова К,11,12,25,48,Happiness Score +
+19,Шайдуллина К,15,15,28,58,IMG CycleGAN +
+20,Шевелькова М,15,15,30,60,NLP IMDB Review classification +
+21,Эккли М,12,10,20,42,Time series -
+22,Эргашев Р,12,12,25,49,RL snake pygame +
+23,Намлеев В,13,10,25,48,RL snake pygame +
+,,,,,,
+1,Бадараева А,10,15,28,53,NLP Disaster Tweets +
+2,Белозерцева Н,15,12,30,57,MTS books recomendation +
+3,Валина А,12,12,20,44,NLP Disaster Tweets -
+4,Гогохия Г,13,13,28,54,NLP Social Dilemma tweets classification +
+5,Дорогова Д,13,10,30,53,NLP Rotten tomatoes sentiment analysis +
+6,Еникеев Э,12,12,30,54,NLP Banki.ru review +
+7,Ибрагимов Р,15,15,30,60,IMG Apple disease classification +
+8,Иванькин А,13,13,28,54,IMG Fruit veggi classification +
+9,Кузнецова Е,13,10,28,51,IMG fruits classification +
+10,Максимова А,,,,,
+11,Маслова А,13,13,15,41,NLP fashion review classification -
+12,Мусина К,15,15,30,60,RL Time Series +
+13,Осипов Д,10,12,0,22,NLP Item caption -
+14,Овчинников А,12,12,25,49,RL stock trading +
+15,Павлов Я,13,10,25,48,RL stock trading +
+16,Петранин К,12,10,22,44,NLP Phone review +
+17,Поздняков А,15,15,0,30,
+18,Проказнов Н,10,10,30,50,CV Face recognition +
+18,Себякин А,15,15,30,60,CV Deep Fake Classification +
+19,Федякин И,13,13,28,54,NLP Social Dilemma tweets classification +
+20,Якупов Р,15,15,30,60,Object Detection traffic sign +
+21,Яровой А,15,15,30,60,NLP gendered pronoun resolution +
+,,,,,,
+,Семенов А,12,12,25,49,IMG EMNIST +
+,Комлев Н,13,13,25,51,IMG MNIST +
